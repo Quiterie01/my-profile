@@ -1,0 +1,43 @@
+body {
+	background-color: #ffffff
+}
+h1, h2, h3 {
+	font-family: "Helvetica", sans-serif; color: #3e616a 
+}
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #6ca3af
+	font-weight: 600;
+	font-size: 16px
+}
+a: hover {
+	color: #0C0000
+}	
+.container {
+	width: 500px;
+	margin: 70px auto;
+	margin-top: 40px;
+}
+.card-white {
+		background-color: #6ca3af
+		border-radius: 40px;
+		box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+		padding: 10px 40px;
+		text-align: center; 
+}
+.img-circle {
+		border-radius: 50%
+}
+.btn-blue {
+		background-color: #c6f1fb;
+		width: 100px;
+		margin-left: 160px;
+}
+.btn-blue: hover {
+		background-color: #0C0000
+		color: #ffffff;
+}
+
+
+
